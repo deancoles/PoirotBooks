@@ -3,7 +3,7 @@ using System;
 using System.Data; 
 using System.Windows.Forms; 
 
-// Contaisn methods to handle the database operation
+// Contains methods to handle database operation
 public class DatabaseHelper
 {
     private string connectionString = "Server=sql8.freemysqlhosting.net;Database=sql8746381;Uid=sql8746381;Pwd=SUVJ3DqUNZ;"; // MySQL database connection
