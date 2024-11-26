@@ -14,6 +14,7 @@ namespace PoirotCatalogApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            System.Net.ServicePointManager.SecurityProtocol = System.Net.SecurityProtocolType.Tls12;
             Application.Run(new StartMenu());
         }
     }

@@ -53,6 +53,15 @@ namespace PoirotCatalogApp
             StopMusic(); // Stop music when closing the form
         }
 
+        private void btnBrowseCatalogue_Click(object sender, EventArgs e)
+        {
+            // Open the BrowseCatalogue form
+            this.Hide(); // Hide the start menu
+            BrowseCatalogue browseCatalogueForm = new BrowseCatalogue();
+            browseCatalogueForm.Show();
+        }
+
+
         private void btnOpenCatalog_Click(object sender, EventArgs e)
         {
             StopMusic(); // Stop music before navigating
