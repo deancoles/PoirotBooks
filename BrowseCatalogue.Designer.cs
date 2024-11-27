@@ -1,37 +1,35 @@
-﻿namespace PoirotCatalogApp
+﻿// This files controls the layout of the browse page in the application
+
+namespace PoirotCatalogApp
 {
     partial class BrowseCatalogue
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        // Required designer variable.
         private System.ComponentModel.IContainer components = null;
-        private System.Windows.Forms.Panel panelBooks;
-        private System.Windows.Forms.Button btnBack;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        private System.Windows.Forms.Panel panelBooks; // Displays books covers and information
+        private System.Windows.Forms.Button btnBack; // Button that returns to previous screen
+
+        // Frees resources no longer needed when form is closed
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
             {
-                components.Dispose();
+                components.Dispose(); // Form resources no longer in use are cleaned up
             }
-            base.Dispose(disposing);
+            base.Dispose(disposing); // Use form class to clean any other resources no longer needed
         }
 
+        // Code generated in Designer View
+        // Do not modify in Code View!
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
+        //
         private void InitializeComponent()
         {
-            this.panelBooks = new System.Windows.Forms.Panel();
-            this.btnBack = new System.Windows.Forms.Button();
+
+            this.panelBooks = new System.Windows.Forms.Panel(); // Initialise book cover panels
+            this.btnBack = new System.Windows.Forms.Button(); // Initialise back button
 
             // Panel for displaying book covers
             this.panelBooks.Location = new System.Drawing.Point(12, 50);

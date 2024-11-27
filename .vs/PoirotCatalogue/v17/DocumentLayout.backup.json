@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\browsecatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|C:\\Users\\Dean\\source\\repos\\PoirotBooks\\browsecatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:browsecatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|C:\\Users\\Dean\\source\\repos\\PoirotBooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\browsecatalogue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:browsecatalogue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\browsecatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:browsecatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|C:\\Users\\Dean\\source\\repos\\PoirotBooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|C:\\Users\\Dean\\source\\repos\\PoirotBooks\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|c:\\users\\dean\\source\\repos\\poirotbooks\\startmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:startmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|C:\\Users\\Dean\\source\\repos\\PoirotBooks\\browsecatalogue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89958CE-F27F-4D62-9B10-52C772747D08}|PoirotCatalogue.csproj|solutionrelative:browsecatalogue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,76 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "StartMenu.cs",
               "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.cs",
               "RelativeDocumentMoniker": "StartMenu.cs",
               "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.cs",
               "RelativeToolTip": "StartMenu.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:26:58.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StartMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.Designer.cs",
-              "RelativeDocumentMoniker": "StartMenu.Designer.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.Designer.cs",
-              "RelativeToolTip": "StartMenu.Designer.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:24:39.34Z",
+              "WhenOpened": "2024-11-27T20:41:15.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "DatabaseHelper.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\DatabaseHelper.cs",
-              "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB8AAAAAAAAAA==",
+              "Title": "StartMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.Designer.cs",
+              "RelativeDocumentMoniker": "StartMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.Designer.cs",
+              "RelativeToolTip": "StartMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:26:33.436Z",
+              "WhenOpened": "2024-11-27T20:26:53.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:46:42.471Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StartMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.cs",
-              "RelativeDocumentMoniker": "StartMenu.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\StartMenu.cs [Design]",
-              "RelativeToolTip": "StartMenu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:45:34.004Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BrowseCatalogue.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.Designer.cs",
               "RelativeDocumentMoniker": "BrowseCatalogue.Designer.cs",
               "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.Designer.cs",
               "RelativeToolTip": "BrowseCatalogue.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T17:28:20.22Z",
               "EditorCaption": ""
@@ -142,9 +85,9 @@
               "Title": "BrowseCatalogue.cs",
               "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.cs",
               "RelativeDocumentMoniker": "BrowseCatalogue.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.cs*",
-              "RelativeToolTip": "BrowseCatalogue.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswDkAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.cs",
+              "RelativeToolTip": "BrowseCatalogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T17:34:06.882Z",
               "EditorCaption": ""
@@ -157,34 +100,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T18:43:23.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BrowseCatalogue.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.cs",
-              "RelativeDocumentMoniker": "BrowseCatalogue.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\BrowseCatalogue.cs [Design]*",
-              "RelativeToolTip": "BrowseCatalogue.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:28:10.055Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Dean\\source\\repos\\PoirotBooks\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:49:51.412Z",
               "EditorCaption": ""
             }
           ]

@@ -1,9 +1,11 @@
-﻿using MySql.Data.MySqlClient; 
-using System; 
-using System.Data; 
-using System.Windows.Forms; 
+﻿// This file contains database operations
 
-// Contains methods to handle database operation
+using MySql.Data.MySqlClient;
+using System;
+using System.Data;
+using System.Windows.Forms;
+
+// Contains methods to control database operation
 public class DatabaseHelper
 {
     private string connectionString = "Server=sql8.freemysqlhosting.net;Database=sql8746381;Uid=sql8746381;Pwd=SUVJ3DqUNZ;"; // MySQL database connection
@@ -30,25 +32,30 @@ public class DatabaseHelper
     {
         try
         {
+            // Creates the connection to the database
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
                 connection.Open();
+                
+                // Search for books using title or tag
                 string query = @"
                 SELECT DISTINCT b.*
                 FROM poirotcollection b
                 LEFT JOIN booktags bt ON b.BookID = bt.BookID
                 LEFT JOIN tags t ON bt.TagID = t.TagID
                 WHERE b.Title LIKE @search OR t.TagName LIKE @search";
-                MySqlCommand command = new MySqlCommand(query, connection);
-                command.Parameters.AddWithValue("@search", "%" + searchQuery + "%");
 
-                DataTable dataTable = new DataTable();
-                MySqlDataAdapter adapter = new MySqlDataAdapter(command);
-                adapter.Fill(dataTable);
+                MySqlCommand command = new MySqlCommand(query, connection); // Prepares query
+                command.Parameters.AddWithValue("@search", "%" + searchQuery + "%"); // Search term with wildcards for partial matches
 
-                return dataTable;
+                DataTable dataTable = new DataTable(); // Create a new table to store search results
+                MySqlDataAdapter adapter = new MySqlDataAdapter(command); // Run query
+                adapter.Fill(dataTable); // Stores results in table
+                return dataTable; // Return the table with the search results
             }
         }
+
+        // If an error occurs
         catch (Exception ex)
         {
             MessageBox.Show("Error searching books with tags: " + ex.Message);
